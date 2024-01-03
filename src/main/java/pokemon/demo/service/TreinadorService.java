@@ -15,7 +15,6 @@ public interface TreinadorService {
 
   Treinador buscarTreinador(Long idTreinador);
 
-  //tirar duvida sobre
   Treinador criarTreinador(Treinador treinador);
 
   void atualizarTreinador(Long idTreinador, Treinador treinador);

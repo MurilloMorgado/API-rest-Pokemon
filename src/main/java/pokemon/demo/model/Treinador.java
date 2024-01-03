@@ -25,11 +25,11 @@ public class Treinador {
   private Long id;
 
   @Column(name = "NOME_TREINADOR")
-  private String nomeTreinador;
+  private String nome;
 
   @Column(name = "IDADE_TREINADOR")
-  private Integer idadeTreinador;
+  private Integer idade;
 
   @Column(name = "CIDADE_TREINADOR")
-  private String cidadeTreinador;
+  private String cidade;
 }

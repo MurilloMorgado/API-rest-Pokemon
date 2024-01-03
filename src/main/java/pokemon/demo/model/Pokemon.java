@@ -31,7 +31,7 @@ public class Pokemon {
   private String nome;
 
   @Column(name = "NATUREZA_POKEMON")
-  private String naturezaPokemon;
+  private String natureza;
 
   @ManyToAny
   @JoinColumn(name = "ID_TREINADOR")
