@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 
 import lombok.RequiredArgsConstructor;
 import pokemon.demo.model.Pokemon;
-import pokemon.demo.repository.PokemonRepository;
 import pokemon.demo.service.PokemonService;
 
 @Service
