@@ -1,8 +1,5 @@
 package pokemon.demo.service;
 
-//Duvida, quando coloco list, vem esse import
-// import org.hibernate.mapping.List;
-
 import java.util.List;
 
 
